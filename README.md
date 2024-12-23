@@ -45,9 +45,9 @@ With only 1 submission, i got a **rank 808**, with a test prediction **loss of 0
 This are intermediate performance, data! It may be off-the-track!
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="./imgs/epoch_accuracy.png" width=50%>
-  &nbsp;&nbsp;
-  <img src="./imgs/epoch_loss.png" width=50%>
+  <img src="./imgs/epoch_accuracy.png" width=40%>
+  &nbsp;
+  <img src="./imgs/epoch_loss.png" width=40%>
 </div>
 
 <br>
